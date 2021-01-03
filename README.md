@@ -1,1 +1,1 @@
-# sorting-algorithm-qt
+# sorting-algorithm-java
